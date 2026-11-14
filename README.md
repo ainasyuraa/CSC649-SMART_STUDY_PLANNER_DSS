@@ -8,6 +8,6 @@ A **Decision Support System (DSS)** module designed for the UiTM MyStudent porta
 - **Interactive Execution:** Includes an active session countdown timer, task checklists, and progress tracking.
 
 ## Repository Structure
-- `docs/` — Project documentation and ANSI/ISO system workflow flowchart.
-- `prototype/` — High-fidelity mobile-first UI screens (Screens 1–7).
-- `src/` — Front-end web implementation (`index.html`, `styles.css`, `dss_engine.js`).
+- `README.md` — Project overview, DSS methodology, and repository documentation.
+- `FlowChart SmartStudyPlanner.png` — Standardized ANSI/ISO system workflow flowchart.
+- `prototype 1.jpeg` – `prototype 8.jpeg` — High-fidelity mobile-first UI screens integrated into the UiTM MyStudent portal.
